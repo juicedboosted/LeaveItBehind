@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca451d65879b11248937c156eae6749c
+guid: a94a37c5bbd58874da115a82fb83d547
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,9 +123,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: knightidle2
+  - name: knightrunrevised2
     originalName: 
-    pivot: {x: 0.5294118, y: 0}
+    pivot: {x: 0.5, y: -0.012500001}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -133,9 +133,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 51
-      height: 92
-    spriteID: 8b16377bacb55f04f890ac5552c747be
+      width: 78
+      height: 80
+    spriteID: 582e5fa9d348b984694afcb22ca94862
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,25 +148,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 3061553589
+      value0: 3833165598
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: knightidle2
+    name: knightrunrevised2
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: knightidle2
+    - name: knightrunrevised2
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 21
-        y: 0
-        width: 51
-        height: 92
-      spriteId: 8b16377bacb55f04f890ac5552c747be
+        x: 9
+        y: 1
+        width: 78
+        height: 80
+      spriteId: 582e5fa9d348b984694afcb22ca94862
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -186,4 +186,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 96, y: 96}
-  previousTextureSize: {x: 64, y: 128}
+  previousTextureSize: {x: 128, y: 128}

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca451d65879b11248937c156eae6749c
+guid: 937eeed58e0c56a4f815dfd6e944e1b2
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,9 +123,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: knightidle2
+  - name: knightsheetrevised-Sheet
     originalName: 
-    pivot: {x: 0.5294118, y: 0}
+    pivot: {x: 0.68401486, y: -1.7679559}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -133,9 +133,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 51
-      height: 92
-    spriteID: 8b16377bacb55f04f890ac5552c747be
+      width: 269
+      height: 181
+    spriteID: 7a435dbe1e3e02745a1a8f036a61c506
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,25 +148,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 3061553589
+      value0: 1395933368
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: knightidle2
+    name: knightsheetrevised-Sheet
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: knightidle2
+    - name: knightsheetrevised-Sheet
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 21
-        y: 0
-        width: 51
-        height: 92
-      spriteId: 8b16377bacb55f04f890ac5552c747be
+        x: 8
+        y: 320
+        width: 269
+        height: 181
+      spriteId: 7a435dbe1e3e02745a1a8f036a61c506
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -185,5 +185,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 96, y: 96}
-  previousTextureSize: {x: 64, y: 128}
+  canvasSize: {x: 384, y: 512}
+  previousTextureSize: {x: 512, y: 256}
